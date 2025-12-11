@@ -1,3 +1,1 @@
 # TP_THz_Split_Ring_Resonators
-
-bllbll
